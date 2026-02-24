@@ -1,0 +1,20 @@
+{
+  "name": "se3040-lab04",
+  "version": "1.0.0",
+  "description": "SE3040 Lab 04",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dish-K/se3040-lab04.git"
+  },
+  "author": "Dishan Kumarapeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dish-K/se3040-lab04/issues"
+  },
+  "homepage": "https://github.com/Dish-K/se3040-lab04#readme"
+}
